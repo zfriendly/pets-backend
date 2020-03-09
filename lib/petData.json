@@ -1,0 +1,11 @@
+[
+  {
+    "type": "cat",
+    "petName": "Daisy",
+    "age": 10,
+    "breed": "Siamese",
+    "image": "",
+    "numberOfLikes": 0,
+    "caption": "Hi my name is Daisy. My motto is 'look but don't touch.'"
+  }
+]
