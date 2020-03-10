@@ -71,10 +71,6 @@
     "numberOfLikes": 0,
     "caption": "Mac is short for Macaroni, my favorite food."
   },
-
-
-
-
   {
     "type": "dog",
     "petName": "Archie",
@@ -129,8 +125,4 @@
     "numberOfLikes": 0,
     "caption": "Will work for belly rubs."
   }
-
-
-
-
 ]
