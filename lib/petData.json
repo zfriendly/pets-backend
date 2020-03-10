@@ -128,8 +128,66 @@
     "image": "https://images.unsplash.com/photo-1491604612772-6853927639ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
     "numberOfLikes": 0,
     "caption": "Will work for belly rubs."
-  }
+  },
+  {
+    "type": "Dog",
+    "petName": "Skip",
+    "age": 6,
+    "breed": "Australian Shepherd",
+    "image": "https://images.unsplash.com/photo-1558528021-a4925a5488c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "numberOfLikes": 0,
+    "caption": "G'day mate"
 
+},
+  
+  {
+    "type": "Dog",
+    "petName": "Phill",
+    "age": 8,
+    "breed": "Great Dane",
+    "image": "https://unsplash.com/photos/URezsXiabxY",
+    "numberOfLikes": 0,
+    "caption": "I have nothing to prove"
+    
+    
+    
+    
+  },
+  
+  {
+
+    "image": "https://images.unsplash.com/photo-1512165573377-0fb0a51c857a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "petName": "Lucrecia",
+    
+    "breed": "Chihuahua",
+    "age": 6,
+    "numberOfLikes":0,
+    "caption": "Don't bother me"
+  },
+  {
+      "image": "https://images.unsplash.com/photo-1551428480-b6ea390103af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "petName": "Jackson",
+      "type": "cat",
+      "breed": "Persian",
+      "age": 10,
+      "numberOfLikes": 0,
+      "caption": "I'd rather not be here", 
+  
+  },
+  {
+      "image": "https://images.unsplash.com/photo-1529927066849-79b791a69825?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "petName": "Al",
+      "type": "Dog",
+      "breed": "Pug",
+      "age": 4,
+      "numberOfLikes": 0,
+      "caption": "All squirrils must die!"
+  },
+  {
+  
+  }
+  
+  
 
 
 
