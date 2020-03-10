@@ -4,8 +4,71 @@
     "petName": "Daisy",
     "age": 10,
     "breed": "Siamese",
-    "image": "",
+    "image": "https://i.imgur.com/aPeAr3Z.jpg",
     "numberOfLikes": 0,
     "caption": "Hi my name is Daisy. My motto is 'look but don't touch.'"
+  },
+  {
+    "type": "dog",
+    "petName": "Max",
+    "age": 9,
+    "breed": "Portuguese Water Dog",
+    "image": "https://i.imgur.com/zJkP0xY.png",
+    "numberOfLikes": 0,
+    "caption": "Is there room for one more good boy in the presidential race?"
+  },
+  {
+    "type": "dog",
+    "petName": "Sawyer",
+    "age": 5,
+    "breed": "Border Collie",
+    "image": "https://i.imgur.com/A9rXXit.jpg",
+    "numberOfLikes": 0,
+    "caption": "You probably can't tell, but I have crippling anxiety!"
+  },
+  {
+    "type": "dog",
+    "petName": "Phoebe",
+    "age": 10,
+    "breed": "Portuguese Water Dog",
+    "image": "https://i.imgur.com/0JDnTy5.jpg",
+    "numberOfLikes": 0,
+    "caption": "I just took a DNA test turns out I'm 100% cute pup."
+  },
+  {
+    "type": "dog",
+    "petName": "Wrigley",
+    "age": 6,
+    "breed": "Golden Retriever",
+    "image": "https://i.imgur.com/4eD3SIW.jpg",
+    "numberOfLikes": 0,
+    "caption": "I'm a big baseball fan. I can fit four in my mouth."
+  },
+  {
+    "type": "cat",
+    "petName": "David Bowie",
+    "age": 14,
+    "breed": "American Short Hair",
+    "image": "https://i.imgur.com/uEHyisN.jpg",
+    "numberOfLikes": 0,
+    "caption": "Put on your cat shoes and dance with me."
+  }
+  {
+    "type": "dog",
+    "petName": "Xavi",
+    "age": 2,
+    "breed": "Bernese Mountain Dog",
+    "image": "https://i.imgur.com/oZ1lHjj.jpg",
+    "numberOfLikes": 0,
+    "caption": "I'm little in this photo, but im 100lbs now #tbt."
+  },
+  {
+    "type": "dog",
+    "petName": "Mac",
+    "age": 4,
+    "breed": "Mixed",
+    "image": "https://i.imgur.com/2MyyRaY.jpg",
+    "numberOfLikes": 0,
+    "caption": "Mac is short for Macaroni, my favorite food."
   }
 ]
